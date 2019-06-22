@@ -35,8 +35,8 @@
 	margin-left: 3em;
 }
 
-.result {
-	border: 1px solid black;
+.results {
+	border: 2px solid black;
 	padding: 5px;
 	margin: 0 auto 1em auto;
 }
